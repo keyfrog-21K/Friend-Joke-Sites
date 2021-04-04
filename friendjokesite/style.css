@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 200px;
+  }
+
+  h2 {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 200px;
+    color: red;
+  }
+
+  h3 {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 200px;
+    color: blue;
+  }
